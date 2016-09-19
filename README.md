@@ -1,10 +1,10 @@
 # App Icon Templates for Affinity Designer
 
-## iOS 10
+### iOS 10
 
 ![App Icon Template for Affinity Designer - iOS 10 ](https://github.com/fabricemasachs/App-Icon-Template-iOS-10-for-Affinity-Designer/blob/master/App%20Icon%20Template%20iOS%2010%20for%20Affinity%20Designer.jpg)
 
-### How to export
+## How to export
 
 Edit the "Edit this" layer to create your artwork.
 
