@@ -2,7 +2,9 @@
 
 ### iOS 10
 
-![App Icon Template for Affinity Designer - iOS 10 ](https://github.com/fabricemasachs/App-Icon-Template-iOS-10-for-Affinity-Designer/blob/master/App%20Icon%20Template%20iOS%2010%20for%20Affinity%20Designer.jpg)
+![App Icon Template for Affinity Designer - iOS 10 ](https://github.com/fabricemasachs/App-Icon-Templates-for-Affinity-Designer/blob/master/App%20Icon%20Template%20for%20Affinity%20Designer%20-%20iOS%2010.png)
+
+![App Icon Template for Affinity Designer - iMessage iOS 10 ](https://github.com/fabricemasachs/App-Icon-Templates-for-Affinity-Designer/blob/master/App%20Icon%20Template%20for%20Affinity%20Designer%20-%20iMessage%20iOS%2010.png)
 
 ## How to export
 
