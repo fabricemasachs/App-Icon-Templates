@@ -8,6 +8,10 @@
 
 ![App Icon Template - iMessage iOS 10 ](https://github.com/fabricemasachs/App-Icon-Templates-for-Affinity-Designer/blob/master/App%20Icon%20Template%20-%20iMessage%20iOS%2010.png)
 
+### macOS 10.12
+
+![App Icon Template - macOS 10.12 ](https://github.com/fabricemasachs/App-Icon-Templates-for-Affinity-Designer/blob/master/App%20Icon%20Template%20-%20macOS%2010.12.png)
+
 ## How to export
 
 Edit the "Edit this" layer to create your artwork.
