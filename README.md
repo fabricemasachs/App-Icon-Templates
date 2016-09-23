@@ -1,5 +1,7 @@
 # App Icon Templates
 
+App Icon Templates to be use with Affinity Designer
+
 ### iOS 10
 
 ![App Icon Template - iOS 10 ](https://github.com/fabricemasachs/App-Icon-Templates-for-Affinity-Designer/blob/master/App%20Icon%20Template%20-%20iOS%2010.png)
